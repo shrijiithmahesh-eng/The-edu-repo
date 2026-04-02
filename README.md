@@ -1,3 +1,2 @@
-# Cyper-hammet
-A list of cyper-tools
-WARNING: THIS IS FOR ETHICAL PORPUSES ONLY
+#The-edu-repo
+this teaches you about kernels
