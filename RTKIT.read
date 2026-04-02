@@ -1,0 +1,12 @@
+A Rt kit or Real time kit is a kit used by kernels to identifiy what order every process has to run
+#example:
+*There are 2 processes*:
+"Steam.exe"
+"explorer.exe"
+so a rt kit basically lets the kernel put 1 important process at the top of less important processes.
+here it'd be:
+ -> Steam.exe <---|
+ | explorer.exe|'
+(here explorer.exe is the importaent one.)
+  So yea lets make a rt kit in C(c ,not c# or C++)
+                                 
